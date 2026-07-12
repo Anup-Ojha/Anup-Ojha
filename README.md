@@ -108,20 +108,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Anup-Ojha&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anup-Ojha&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anup-Ojha&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anup-Ojha&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&column=7" alt="Trophies" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anup-Ojha&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
