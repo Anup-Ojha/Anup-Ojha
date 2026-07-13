@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 300" role="img" aria-label="GitHub stats card warming up">
+  <defs>
+    <style>
+      :root { color-scheme: light dark; }
+      text { font-family: 'Fira Code','Cascadia Code',ui-monospace,'SF Mono',Menlo,Consolas,monospace; }
+      .win { fill:#0d1117; stroke:#30363d; }
+      .bar { fill:#161b22; }
+      .barln { stroke:#30363d; }
+      .ttl { fill:#8b949e; font-size:14px; }
+      .msg { fill:#58e6ff; font-size:20px; font-weight:700; }
+      .sub { fill:#8b949e; font-size:13px; }
+      @media (prefers-color-scheme: light) {
+        .win{fill:#fff;stroke:#d0d7de;} .bar{fill:#f6f8fa;} .barln{stroke:#d0d7de;}
+        .ttl{fill:#57606a;} .msg{fill:#0550ae;} .sub{fill:#57606a;}
+      }
+    </style>
+  </defs>
+  <rect class="win" x="4" y="4" width="812" height="292" rx="12" stroke-width="1.5"/>
+  <path class="bar" d="M4 16 a12 12 0 0 1 12 -12 h788 a12 12 0 0 1 12 12 v28 h-812 z"/>
+  <line class="barln" x1="4" y1="44" x2="816" y2="44"/>
+  <text class="ttl" x="410" y="29" text-anchor="middle">anup@ojha: ~/stats</text>
+  <text class="msg" x="410" y="150" text-anchor="middle">generating live stats
+    <animate attributeName="opacity" values="1;0.35;1" dur="1.6s" repeatCount="indefinite"/>
+  </text>
+  <text class="sub" x="410" y="180" text-anchor="middle">run the "Update Stats Card" Action once and this card fills in automatically</text>
+</svg>

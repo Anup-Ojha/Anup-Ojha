@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 330" role="img" aria-label="Terminal boot: Anup Ojha, Backend and AI Engineer">
+  <defs>
+    <style>
+      :root { color-scheme: light dark; }
+      .win     { fill: #0d1117; stroke: #30363d; }
+      .bar     { fill: #161b22; }
+      .barln   { stroke: #30363d; }
+      .title   { fill: #8b949e; }
+      .prompt  { fill: #3fb950; }
+      .cmd     { fill: #58e6ff; }
+      .out     { fill: #c9d1d9; }
+      .accent  { fill: #bc8cff; }
+      .cursor  { fill: #58e6ff; }
+      text     { font-family: 'Fira Code','Cascadia Code',ui-monospace,'SF Mono',Menlo,Consolas,monospace; font-size: 17px; font-weight: 500; }
+      .dim     { fill: #6e7681; font-size: 13px; }
+      @media (prefers-color-scheme: light) {
+        .win   { fill: #ffffff; stroke: #d0d7de; }
+        .bar   { fill: #f6f8fa; }
+        .barln { stroke: #d0d7de; }
+        .title { fill: #57606a; }
+        .prompt{ fill: #1a7f37; }
+        .cmd   { fill: #0550ae; }
+        .out   { fill: #1f2328; }
+        .accent{ fill: #8250df; }
+        .cursor{ fill: #0550ae; }
+        .dim   { fill: #8c959f; }
+      }
+      @keyframes blink { 0%,49% { opacity: 1; } 50%,100% { opacity: 0; } }
+      .blink { animation: blink 1s steps(1) infinite; }
+    </style>
+
+    <clipPath id="w1"><rect x="34" y="66" width="0" height="24"><animate attributeName="width" dur="11s" repeatCount="indefinite" calcMode="linear" values="0;0;760;760;0" keyTimes="0;0.036;0.100;0.955;1"/></rect></clipPath>
+    <clipPath id="w2"><rect x="34" y="98" width="0" height="24"><animate attributeName="width" dur="11s" repeatCount="indefinite" calcMode="linear" values="0;0;760;760;0" keyTimes="0;0.127;0.209;0.955;1"/></rect></clipPath>
+    <clipPath id="w3"><rect x="34" y="130" width="0" height="24"><animate attributeName="width" dur="11s" repeatCount="indefinite" calcMode="linear" values="0;0;760;760;0" keyTimes="0;0.245;0.309;0.955;1"/></rect></clipPath>
+    <clipPath id="w4"><rect x="34" y="162" width="0" height="24"><animate attributeName="width" dur="11s" repeatCount="indefinite" calcMode="linear" values="0;0;760;760;0" keyTimes="0;0.336;0.445;0.955;1"/></rect></clipPath>
+    <clipPath id="w5"><rect x="34" y="194" width="0" height="24"><animate attributeName="width" dur="11s" repeatCount="indefinite" calcMode="linear" values="0;0;760;760;0" keyTimes="0;0.473;0.536;0.955;1"/></rect></clipPath>
+    <clipPath id="w6"><rect x="34" y="226" width="0" height="24"><animate attributeName="width" dur="11s" repeatCount="indefinite" calcMode="linear" values="0;0;760;760;0" keyTimes="0;0.564;0.673;0.955;1"/></rect></clipPath>
+  </defs>
+
+  <rect class="win" x="4" y="4" width="812" height="322" rx="12" stroke-width="1.5"/>
+  <path class="bar" d="M4 16 a12 12 0 0 1 12 -12 h788 a12 12 0 0 1 12 12 v28 h-812 z"/>
+  <line class="barln" x1="4" y1="44" x2="816" y2="44" stroke-width="1"/>
+  <text class="title" x="410" y="29" text-anchor="middle" font-size="14">anup@ojha: ~/portfolio - zsh</text>
+
+  <g clip-path="url(#w1)"><text x="34" y="84"><tspan class="prompt">></tspan><tspan class="cmd" dx="10">whoami</tspan></text></g>
+  <g clip-path="url(#w2)"><text x="34" y="116"><tspan class="out">Anup Ojha </tspan><tspan class="accent">::</tspan><tspan class="out"> Backend &amp; AI Engineer</tspan></text></g>
+  <g clip-path="url(#w3)"><text x="34" y="148"><tspan class="prompt">></tspan><tspan class="cmd" dx="10">cat tech-stack.txt</tspan></text></g>
+  <g clip-path="url(#w4)"><text x="34" y="180"><tspan class="out">Python </tspan><tspan class="accent">·</tspan><tspan class="out"> FastAPI </tspan><tspan class="accent">·</tspan><tspan class="out"> PostgreSQL </tspan><tspan class="accent">·</tspan><tspan class="out"> RAG </tspan><tspan class="accent">·</tspan><tspan class="out"> Agentic AI </tspan><tspan class="accent">·</tspan><tspan class="out"> LangChain</tspan></text></g>
+  <g clip-path="url(#w5)"><text x="34" y="212"><tspan class="prompt">></tspan><tspan class="cmd" dx="10">./deploy --status</tspan></text></g>
+  <g clip-path="url(#w6)"><text x="34" y="244"><tspan class="accent">running </tspan><tspan class="out">production AI systems @ Jackson &amp; Frank</tspan></text></g>
+
+  <text x="34" y="292"><tspan class="prompt">></tspan><tspan class="cursor blink" dx="12" font-weight="700">_</tspan></text>
+  <text class="dim" x="786" y="312" text-anchor="end">uptime: shipping since 2024</text>
+</svg>

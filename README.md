@@ -2,7 +2,7 @@
 <h3 align="center">Backend & AI Engineer @ Jackson & Frank | Building production-grade AI systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D8FF&center=true&vCenter=true&width=650&lines=Backend+%26+AI+Engineer;Python+%7C+FastAPI+%7C+PostgreSQL;RAG+%7C+Agentic+AI+%7C+LLM+Pipelines;Full+Stack+%7C+Angular+%7C+Spring+Boot;Turning+business+problems+into+scalable+systems" alt="Typing SVG" />
+  <img src="assets/hero.svg" width="760" alt="Terminal boot sequence: Anup Ojha, Backend and AI Engineer" />
 </p>
 
 <p align="center">
@@ -12,6 +12,10 @@
   </a>
 </p>
 
+<p align="center">
+  <b>🕹️ <a href="game/start.md">Play the text adventure</a></b> · a mini game hidden in this repo
+</p>
+
 ---
 
 ## 💫 About Me
@@ -19,7 +23,7 @@
 - 🔭 I'm currently working as a **Backend & AI Engineer at Jackson & Frank**
 - 🧠 I build **RAG pipelines, agentic AI workflows, and production-grade backend systems**
 - 💼 Previously **Python/AI Developer at Perimattic** (delivered 3+ production AI systems)
-- 🎓 **Master of Computer Applications** — VESIT, Mumbai (GPA: 9.74)
+- 🎓 **Master of Computer Applications** - VESIT, Mumbai (GPA: 9.74)
 - 🌱 Currently going deeper into **agentic AI, LLM orchestration & scalable backend architecture**
 - 🤝 I'm looking to collaborate on **AI, backend, and data-oriented** projects
 - 💬 Ask me about **FastAPI, RAG, LLM pipelines, or full-stack development**
@@ -90,25 +94,33 @@
 
 ## 💼 Experience
 
-- **Backend & AI Engineer** — *Jackson & Frank* `May 2025 – Present`
-- **Python / AI Developer** — *Perimattic* `Nov 2024 – May 2025`
-- **Backend Developer Intern** — *Addy Fitness* `Aug 2025 – Nov 2025`
-- **Software Development Engineer Intern** — *Go Digital Technology Consulting* `Dec 2024 – Mar 2025`
+- **Backend & AI Engineer** - *Jackson & Frank* `May 2025 – Present`
+- **Python / AI Developer** - *Perimattic* `Nov 2024 – May 2025`
+- **Backend Developer Intern** - *Addy Fitness* `Aug 2025 – Nov 2025`
+- **Software Development Engineer Intern** - *Go Digital Technology Consulting* `Dec 2024 – Mar 2025`
 
 ---
 
 ## 🚀 Featured Projects
 
-- **[Resume MCP](https://github.com/Anup-Ojha)** — End-to-end MCP-based automated resume & job-application system with a LaTeX rendering engine, JD-based tailoring, and a Telegram bot for zero-touch applications. `Python · Next.js · PostgreSQL · LaTeX`
-- **Secure FastAPI CRUD Service** — Modular CRUD APIs with JWT auth, RBAC, ORM optimization (20% faster), and full Swagger docs. `FastAPI · SQLAlchemy · PostgreSQL`
-- **ChatterSphere** — Real-time chat platform for 200+ users with presence tracking, live sync, and 99.9% uptime. `Next.js · TypeScript · Supabase`
+- **[Resume MCP](https://github.com/Anup-Ojha)** - End-to-end MCP-based automated resume & job-application system with a LaTeX rendering engine, JD-based tailoring, and a Telegram bot for zero-touch applications. `Python · Next.js · PostgreSQL · LaTeX`
+- **Secure FastAPI CRUD Service** - Modular CRUD APIs with JWT auth, RBAC, ORM optimization (20% faster), and full Swagger docs. `FastAPI · SQLAlchemy · PostgreSQL`
+- **ChatterSphere** - Real-time chat platform for 200+ users with presence tracking, live sync, and 99.9% uptime. `Next.js · TypeScript · Supabase`
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="assets/stats.svg" width="760" alt="Self-generated GitHub stats card" />
+</p>
+
+<p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anup-Ojha&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <sub>☝️ This stats card is <b>self-hosted</b>: a GitHub Action runs my own Python that queries the GitHub API and renders this SVG. No third-party service, no rate limits.</sub>
 </p>
 
 ---
