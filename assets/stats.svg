@@ -26,13 +26,13 @@
   <rect class="win" x="4" y="4" width="812" height="292" rx="12" stroke-width="1.5"/>
   <path class="bar" d="M4 16 a12 12 0 0 1 12 -12 h788 a12 12 0 0 1 12 12 v28 h-812 z"/>
   <line class="barln" x1="4" y1="44" x2="816" y2="44"/>
-  <text class="ttl" x="410" y="29" text-anchor="middle">anup@ojha: ~/stats · 541 contributions this year</text>
+  <text class="ttl" x="410" y="29" text-anchor="middle">anup@ojha: ~/stats · 549 contributions this year</text>
   
     <g opacity="0" transform="translate(34,70)">
       <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.00s" fill="freeze"/>
       <animateTransform attributeName="transform" type="translate" from="34,80" to="34,70" dur="0.5s" begin="0.00s" fill="freeze"/>
       <rect class="tile" width="172" height="82" rx="10"/>
-      <text class="num"   x="16" y="42">531</text>
+      <text class="num"   x="16" y="42">538</text>
       <text class="label" x="16" y="64">commits (1y)</text>
     </g>
     <g opacity="0" transform="translate(222,70)">
@@ -53,7 +53,7 @@
       <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.45s" fill="freeze"/>
       <animateTransform attributeName="transform" type="translate" from="222,178" to="222,168" dur="0.5s" begin="0.45s" fill="freeze"/>
       <rect class="tile" width="172" height="82" rx="10"/>
-      <text class="num"   x="16" y="42">29</text>
+      <text class="num"   x="16" y="42">30</text>
       <text class="label" x="16" y="64">repositories</text>
     </g>
   <text class="hdr" x="438" y="76">top languages</text>
